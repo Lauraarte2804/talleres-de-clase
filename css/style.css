@@ -1,0 +1,207 @@
+/**HEADER**/
+
+header
+{
+    width: 84.3rem;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.foto
+{
+    width: 8rem;
+    height: 10rem;
+    padding-bottom: 1rem;
+}
+
+.contenedorheader 
+{
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+}
+.iniciositio
+{   
+    display: flex;
+    justify-content: center;
+    background-color: #ffda2d;
+}
+h1
+{
+    font-size: 3.5rem;
+    margin: 2rem 0 -1.7rem 0;
+   
+}
+.htres
+{
+  padding: 0 0 0 1.5rem;  
+  color: #e02a00;
+}
+
+/**BODY**/
+
+body
+{
+    font-family: 'Crimson Text', serif;
+}
+section
+{
+    width: 75rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2
+{
+    color: #e02a00;
+    font-size: 2rem;
+}
+.h2separador
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 1rem 0 0 0;
+}
+.imgseparador
+{
+    width: 27rem;
+    height: 0.5rem;
+    padding: 2.7rem 0 0 0;
+}
+
+/**SECCION PERFIL PROFESIONAL**/
+
+.inicioperfil
+{
+    display: flex;
+    justify-content: space-around;
+}
+.parrafoperfil
+{
+    max-width: 100%;
+    width: 60rem;
+    display: block;
+    padding: 0 4rem 0 2rem;
+    text-align: justify;
+}
+.parrafocontacto
+{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 4rem;
+    width: 25rem;
+}
+.parraforedes
+{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 0;  
+}
+.iconoredes
+{
+    width: 5rem;
+    height: 5rem;
+}
+
+/**SECCION EXPERIENCIA LABORAL**/
+.parrafoexperiencia
+{
+    display: flex;
+    justify-content: space-between;
+}
+.experiencia
+{
+   display: block;
+   margin: 0 2rem 0 2rem;
+   text-align: justify;
+}
+
+/**SEECCION HABILIDADEES TECNICAS**/
+.iniciohabilidades
+{
+    display: flex;
+    margin: 0 2rem 0 2rem;
+}
+.htecnicas
+{
+    
+    max-width: 100%;
+    text-align: justify;
+    padding: 0 2rem 0 em;
+}
+.htecnicasdos
+{
+    padding: 0 2rem 0 3rem;
+    text-align: justify;
+}
+.cursiva
+{
+    font-style: italic;
+}
+progress
+{
+    width: 18rem;
+}
+.estrellas
+{
+    width: 20rem;
+    height: 2.5rem;
+    margin: -1rem 0 -1rem 0;
+}
+
+/**SECCION EDUCACION**/
+.inicioeducacion
+{
+    display: flex;
+}
+.educaionuno
+{
+    width: 150rem;
+    text-align: justify;
+    margin: 0 0 0 2rem;
+}
+.educaciondos
+{
+    margin: 0 2rem 0 6rem;
+    text-align: justify;
+}
+
+/**SECCION PORTAFOLIO**/
+
+.inicioportafolio
+{
+    display: flex;
+    margin: 0 3rem 0 2rem;
+}
+.portauno
+{
+    text-align: justify;
+}
+.clienuno
+{
+    margin: 0 0 0 1rem;
+    padding: 0 0 0 5rem;
+}
+.cliendos
+{
+    margin: 4rem 0 0 1rem;
+}
+.clientres
+{
+    margin: 4rem 0 0 5rem;
+}
+
+/**SECCION IMAGENES**/
+.imgfinal
+{
+    width: 13rem;
+    height: 10rem;
+}
+.imgfinalmover
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 3rem 0 4rem 0;
+}
